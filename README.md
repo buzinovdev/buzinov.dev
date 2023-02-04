@@ -13,6 +13,10 @@ yarn install
 # npm
 npm install
 
+# npm /api
+cd api
+npm install
+
 # pnpm
 pnpm install
 ```
